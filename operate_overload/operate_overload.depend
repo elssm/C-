@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1581132406 source:/home/elssm/code/operate_overload/main.cpp
+	<iostream>
+	"Integer.h"
+	"ConstDemo.h"
+
+1581132449 /home/elssm/code/operate_overload/include/Integer.h
+	<iostream>
+
+1581131241 source:/home/elssm/code/operate_overload/src/Integer.cpp
+	"Integer.h"
+	<iostream>
+
+1581056537 /home/elssm/code/operate_overload/include/ConstDemo.h
+	<iostream>
+
