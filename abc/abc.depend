@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1580647332 source:/home/elssm/code/abc/main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<climits>
+
+1580563479 /home/elssm/code/abc/szdemo.h
+
